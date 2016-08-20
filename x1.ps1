@@ -1,0 +1,1 @@
+﻿Get-Service | Out-File C:\myData\services.txt
